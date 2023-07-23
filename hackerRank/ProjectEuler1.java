@@ -27,31 +27,16 @@ public class ProjectEuler1{
             
 
 
-            // for(Integer i = 0; i<n;i++){
-            //     // Minimun Multiple Comum 3 
-            //     // if(i>=3 && i%3 == 0 || i>=5 && i%5 == 0)
-            //     if(i%3 == 0 || i%5 == 0){
-            //         // .contains(Object o);
-            //         // if(!aws.contains(i)){
-            //             aws.add(i);
-            //             aws2 += i;
-            //         // } 
-            //     }
-                // else if(i>=5 && i%5 == 0){
-                //     if(!aws.contains(i)){
-                //         // aws.add(i);
-                //         aws2 += i;
-                //     }
-                // }
+            for(Integer i = 0; i<n;i++){
+                // Minimun Multiple Comum 3 
+                if(i%3 == 0 || i%5 == 0){
+                        aws.add(i);
+                        aws2 += i;
+                }
+
             
 
-            // int sum =0;
-            // for(int i: aws){
-            //     sum += i;
-            // }
-            // System.out.println(aws);
-            // System.out.println(aws2);
-            // System.out.println(sum);
+
 
         }
 
