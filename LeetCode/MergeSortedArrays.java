@@ -1,7 +1,7 @@
 package broCode.LeetCode
 
 // problem: https://leetcode.com/problems/merge-sorted-array/description/
-// level: easy 
+// level: easy.
 
 class MergeSortedArrays {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
