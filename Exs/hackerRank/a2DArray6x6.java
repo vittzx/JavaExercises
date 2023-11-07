@@ -1,4 +1,4 @@
-package broCode.hackerRank;
+package Exs.hackerRank;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package broCode.hackerRank;
+package Exs.hackerRank;
 
 public class CountingValleys {
     public static int countingValleys(int steps, String path) {

@@ -1,4 +1,4 @@
-package broCode.edabit;
+package Exs.edabit;
 
 public class IsPalindrome {
     public static boolean isPalindrome(String s){

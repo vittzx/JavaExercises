@@ -1,4 +1,4 @@
-package broCode.hackerRank;
+package Exs.hackerRank;
 
 // Even Fibonacci Numbers
 // https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem?isFullScreen=true

@@ -1,4 +1,4 @@
-package broCode.edabit;
+package Exs.edabit;
 
 import java.util.Arrays;
 // The Problem

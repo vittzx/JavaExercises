@@ -1,4 +1,4 @@
-package broCode.edabit;
+package Exs.edabit;
 
 public class NumberLentgth{
 // length of a number. 10 -> 2 

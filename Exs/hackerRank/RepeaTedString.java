@@ -1,4 +1,4 @@
-package broCode.hackerRank;
+package Exs.hackerRank;
 
 public class RepeaTedString {
     public static long repeatedString(String s, long n){

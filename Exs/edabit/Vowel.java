@@ -1,4 +1,4 @@
-package broCode.edabit;
+package Exs.edabit;
 
 // Vowel Family - Exercise 
 // https://edabit.com/challenge/9P6yDuSZxYTihMtT6

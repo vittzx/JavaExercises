@@ -1,4 +1,4 @@
-package broCode;
+package Exs;
 
 public class Auxs {
     public static void main(String[] args) {
